@@ -1,6 +1,6 @@
 # Student Management System
 
-## 📖 Giới thiệu
+## Giới thiệu
 Dự án **Quản lý sinh viên** được xây dựng bằng **Laravel** nhằm quản lý thông tin sinh viên, giảng viên và môn học.  
 Hệ thống hỗ trợ đăng nhập bằng **tên tài khoản (username)**, phân quyền theo vai trò và hiển thị giao diện thông qua **Blade Template**.
 
@@ -29,3 +29,4 @@ Hệ thống hỗ trợ đăng nhập bằng **tên tài khoản (username)**, p
 ```bash
 git clone https://github.com/<your-username>/student_management.git
 cd student_management
+
